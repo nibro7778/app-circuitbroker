@@ -203,6 +203,16 @@
     <None Include="packages.config" />
     <Content Include="Scripts\jquery-1.10.2.min.map" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CircuitBreaker\CircuitBreaker.csproj">
+      <Project>{3c5224f3-ec5c-4eae-91bc-0d3ca366e313}</Project>
+      <Name>CircuitBreaker</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Services\InternalService.csproj">
+      <Project>{b5c0b954-5c31-4055-b48d-0c9f148814db}</Project>
+      <Name>InternalService</Name>
+    </ProjectReference>
+  </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>

@@ -40,3 +40,12 @@ C:\repos\CircuitBroker\Website\obj\Debug\Website.csprojResolveAssemblyReference.
 C:\repos\CircuitBroker\Website\obj\Debug\Website.csproj.CoreCompileInputs.cache
 C:\repos\CircuitBroker\Website\obj\Debug\Website.dll
 C:\repos\CircuitBroker\Website\obj\Debug\Website.pdb
+C:\repos\CircuitBroker\Website\bin\CircuitBreaker.dll
+C:\repos\CircuitBroker\Website\bin\Services.dll
+C:\repos\CircuitBroker\Website\bin\Polly.dll
+C:\repos\CircuitBroker\Website\bin\System.Net.Http.Formatting.dll
+C:\repos\CircuitBroker\Website\bin\CircuitBreaker.pdb
+C:\repos\CircuitBroker\Website\bin\Services.pdb
+C:\repos\CircuitBroker\Website\bin\Polly.pdb
+C:\repos\CircuitBroker\Website\bin\Polly.xml
+C:\repos\CircuitBroker\Website\bin\System.Net.Http.Formatting.xml

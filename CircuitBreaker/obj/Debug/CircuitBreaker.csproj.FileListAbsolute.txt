@@ -3,7 +3,6 @@ C:\repos\CircuitBroker\CircuitBreaker\bin\Debug\CircuitBreaker.pdb
 C:\repos\CircuitBroker\CircuitBreaker\bin\Debug\Polly.dll
 C:\repos\CircuitBroker\CircuitBreaker\bin\Debug\Polly.pdb
 C:\repos\CircuitBroker\CircuitBreaker\bin\Debug\Polly.xml
-C:\repos\CircuitBroker\CircuitBreaker\obj\Debug\CircuitBreaker.csprojResolveAssemblyReference.cache
 C:\repos\CircuitBroker\CircuitBreaker\obj\Debug\CircuitBreaker.csproj.CoreCompileInputs.cache
 C:\repos\CircuitBroker\CircuitBreaker\obj\Debug\CircuitBreaker.dll
 C:\repos\CircuitBroker\CircuitBreaker\obj\Debug\CircuitBreaker.pdb

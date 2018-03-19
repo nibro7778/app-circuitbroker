@@ -4,3 +4,12 @@ C:\repos\CircuitBroker\Services\obj\Debug\InternalService.csprojResolveAssemblyR
 C:\repos\CircuitBroker\Services\obj\Debug\InternalService.csproj.CoreCompileInputs.cache
 C:\repos\CircuitBroker\Services\obj\Debug\Services.dll
 C:\repos\CircuitBroker\Services\obj\Debug\Services.pdb
+C:\repos\CircuitBroker\Services\bin\Debug\CircuitBreaker.dll
+C:\repos\CircuitBroker\Services\bin\Debug\Newtonsoft.Json.dll
+C:\repos\CircuitBroker\Services\bin\Debug\System.Net.Http.Formatting.dll
+C:\repos\CircuitBroker\Services\bin\Debug\Polly.dll
+C:\repos\CircuitBroker\Services\bin\Debug\CircuitBreaker.pdb
+C:\repos\CircuitBroker\Services\bin\Debug\Newtonsoft.Json.xml
+C:\repos\CircuitBroker\Services\bin\Debug\System.Net.Http.Formatting.xml
+C:\repos\CircuitBroker\Services\bin\Debug\Polly.pdb
+C:\repos\CircuitBroker\Services\bin\Debug\Polly.xml
