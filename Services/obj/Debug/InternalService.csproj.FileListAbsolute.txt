@@ -1,0 +1,6 @@
+C:\repos\CircuitBroker\Services\bin\Debug\Services.dll
+C:\repos\CircuitBroker\Services\bin\Debug\Services.pdb
+C:\repos\CircuitBroker\Services\obj\Debug\InternalService.csprojResolveAssemblyReference.cache
+C:\repos\CircuitBroker\Services\obj\Debug\InternalService.csproj.CoreCompileInputs.cache
+C:\repos\CircuitBroker\Services\obj\Debug\Services.dll
+C:\repos\CircuitBroker\Services\obj\Debug\Services.pdb

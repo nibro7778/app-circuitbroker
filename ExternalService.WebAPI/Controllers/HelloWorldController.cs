@@ -19,5 +19,16 @@ namespace ExternalService.WebAPI.Controllers
         {
             return Ok("Hello World");
         }
+
+        /// <summary>
+        /// This API simply retrun "Hello World" + Requested string 
+        /// </summary>
+        /// <returns></returns>
+        [HttpPost]
+        [Route("Post")]
+        public IHttpActionResult PostHelloWorld(string message)
+        {
+            return Ok("Hello World " + message);
+        }
     }
 }
