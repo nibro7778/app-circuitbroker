@@ -7,7 +7,7 @@ namespace Services
 {
     public interface IService
     {
-        Task<HttpResponseMessage> GetHelloWorld();
+        Task<HttpResponseMessage> GetHelloWorldAsync();
         Task<HttpResponseMessage> PostHelloWorld();
     }
 }

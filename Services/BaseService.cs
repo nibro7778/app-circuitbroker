@@ -7,15 +7,15 @@ using Newtonsoft.Json;
 
 namespace Services
 {
-    public class BaseService
+    public abstract class BaseService
     {
         private readonly IHttpClientFactory _httpClientFactory;
         private readonly string _baseAddress;
 
-        public BaseService(IHttpClientFactory httpClientFactory, string baseAddress, string baseAddress1)
+        protected BaseService(IHttpClientFactory httpClientFactory, string baseAddress)
         {
             _httpClientFactory = httpClientFactory;
-            _baseAddress = baseAddress1;
+            _baseAddress = baseAddress;
         }
 
         public async Task<HttpResponseMessage> GetExternalServiceAsync(string requestUri)

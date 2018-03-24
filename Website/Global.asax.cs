@@ -1,4 +1,5 @@
 ﻿
+using System.Configuration;
 using System.Net.Http;
 using System.Web.Mvc;
 using System.Web.Optimization;
@@ -33,8 +34,9 @@ namespace Website
 
         private static void RegisterServices(IKernel kernel)
         {
-            kernel.Bind<IService>().To<Service>();
+            kernel.Bind<IService>().To<Service>().WithConstructorArgument("baseAddress", ConfigurationManager.AppSettings["ExternalServiceAddress"]);
             kernel.Bind<ICircuitBreaker<HttpResponseMessage>>().To<CircuitBreaker<HttpResponseMessage>>();
+            kernel.Bind<IHttpClientFactory>().To<HttpClientFactory>();
         }
     }
 }
