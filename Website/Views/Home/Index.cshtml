@@ -3,9 +3,23 @@
 }
 
 <div class="jumbotron">
-    <h1>ASP.NET</h1>
-    <p class="lead">ASP.NET is a free web framework for building great Web sites and Web applications using HTML, CSS and JavaScript.</p>
-    <p><a href="https://asp.net" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
+    <p class="lead">This application demonstrates how to implement circuit breaker for calling external service. Please find below components of this application</p>
+    <ui>
+        <P>
+            <b>Website:</b> Own MVC application to demonstrate external service call using the circuit breaker
+        </P>
+        <p>
+            <b>InternalService:</b> This class library makes a call to external services using the circuit breaker pattern
+        </p>
+        <p>
+            <b>Circuit Breaker:</b> This class library contains an implementation of circuit breaker design pattern using Polly. This class library used by internal service
+        </p>
+        <p>
+            <b>ExternalService:</b> External service is web API project. we will be going to call external service's web API from our MVC web application
+        </p>
+    </ui>
+    <br/>
+    <p><a href="https://nirajtrivediblog.wordpress.com/2018/03/16/circuit-breaker-design-pattern/" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
 </div>
 
 <div class="row">

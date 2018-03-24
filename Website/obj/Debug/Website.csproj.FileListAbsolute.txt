@@ -49,3 +49,11 @@ C:\repos\CircuitBroker\Website\bin\Services.pdb
 C:\repos\CircuitBroker\Website\bin\Polly.pdb
 C:\repos\CircuitBroker\Website\bin\Polly.xml
 C:\repos\CircuitBroker\Website\bin\System.Net.Http.Formatting.xml
+C:\repos\CircuitBroker\Website\bin\Ninject.dll
+C:\repos\CircuitBroker\Website\bin\Ninject.Web.Common.dll
+C:\repos\CircuitBroker\Website\bin\Ninject.Web.Common.WebHost.dll
+C:\repos\CircuitBroker\Website\bin\Ninject.Web.Mvc.dll
+C:\repos\CircuitBroker\Website\bin\Ninject.xml
+C:\repos\CircuitBroker\Website\bin\Ninject.Web.Common.xml
+C:\repos\CircuitBroker\Website\bin\Ninject.Web.Common.WebHost.xml
+C:\repos\CircuitBroker\Website\bin\Ninject.Web.Mvc.xml
