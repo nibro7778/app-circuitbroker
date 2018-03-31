@@ -6,3 +6,14 @@
 /ExternalService.WebAPI/bin
 /.vs/SampleApplications/v15/Server/sqlite3
 /ExternalService.WebAPI/obj/Debug
+/CircuitBreaker/bin
+/CircuitBreaker/obj
+/ExternalService.WebAPI/bin
+/ExternalService.WebAPI/obj
+/InternalService/bin
+/InternalService/obj
+/Services/bin
+/Services/obj
+/Website/bin
+/Website/obj
+
